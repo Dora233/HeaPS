@@ -45,4 +45,5 @@ The generated log files are in ".../HeaPS/training/evals/logs/". <br>
 
 ## Acknowledgements
 Thanks to Fan Lai, Xiangfeng Zhu, Harsha V. Madhyastha, and Mosharaf Chowdhury for their OSDI'21 paper [Oort: Efficient Federated Learning via Guided Participant Selection.](https://www.usenix.org/conference/osdi21/presentation/lai) The source codes can be found in repo [Oort](https://github.com/SymbioticLab/Oort). <br>
-We also appreciate the help from Chenning Li, Xiao Zeng, Mi Zhang, Zhichao Cao for their MobiCom'22 paper ClusterFL: [PyramidFL: a fine-grained client selection framework for efficient federated learning](https://dl.acm.org/doi/10.1145/3495243.3517017). The source codes can be found in repo [PyramidFL](https://github.com/liecn/PyramidFL).
+ <br>
+We also appreciate the help from Chenning Li, Xiao Zeng, Mi Zhang, Zhichao Cao for their MobiCom'22 paper [PyramidFL: a fine-grained client selection framework for efficient federated learning](https://dl.acm.org/doi/10.1145/3495243.3517017). The source codes can be found in repo [PyramidFL](https://github.com/liecn/PyramidFL).
