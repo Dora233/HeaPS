@@ -20,7 +20,6 @@ NCCL: [https://developer.nvidia.com/nccl/nccl-legacy-downloads](https://develope
 ## Cloning
 ```
 git clone https://github.com/Dora233/HeaPS
-cd HeaPS
 ```
 To compare with the existing works, Oort and PyramidFL, run the following commands to install [Oort](https://github.com/SymbioticLab/Oort).
 ```
