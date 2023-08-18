@@ -40,7 +40,7 @@ python manager.py submit configs/speech/conf_heaps.yml
 All the configuration files are in ".../HeaPS/training/evals/configs/". <br>
 Among them, the suffix "_p" represents using Prox, while without "_p" represents using Yogi. <br>
 The suffix "_nomember" represents the HeaPS without member clients used in ablation study. <br>
-The other variant used in ablation study is HeaPS without the fine-grained utility, to test it,  enter ".../HeaPS/heaps/" and use the content in heaps_util.py to replace the content in heaps.py. <br>
+The other variant used in ablation study is HeaPS without the fine-grained utility. To test it, enter ".../HeaPS/heaps/" and use the content in heaps_util.py to replace the content in heaps.py. <br>
 The generated log files are in ".../HeaPS/training/evals/logs/". <br>
 
 ## Acknowledgements
